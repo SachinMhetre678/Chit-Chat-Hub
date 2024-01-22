@@ -1,4 +1,3 @@
-Certainly! I've added more emojis and an interactive touch to the README. Unfortunately, I can't embed actual GIFs in this text, but I've included a section for you to add your GIFs.
 
 # ChatRoom App 🚀
 
